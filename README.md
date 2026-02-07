@@ -1,8 +1,8 @@
 <h2>👋Hi, I'm a Full Stack Web Developer</h2> 
 
-I’m <b>SALMAN</b> a Full Stack Web Developer specializing in the MERN stack (MongoDB, Express, React, Node.js). I enjoy building scalable, performant, and user-friendly web applications—from backend APIs to polished frontend experiences.
+I’m <a><b>SALMAN</b></a> a Full Stack Web Developer specializing in the MERN stack (MongoDB, Express, React, Node.js). I enjoy building scalable, performant, and user-friendly web applications—from backend APIs to polished frontend experiences.
 
-<h3>Technical Skills:</h3>
+<h3>📚 Technical Skills:</h3>
 
 <ul>
 <li>React.js</li>
@@ -17,7 +17,7 @@ I’m <b>SALMAN</b> a Full Stack Web Developer specializing in the MERN stack (M
 <li>Mongoose</li>
 </ul>
 
-<h3>Tools:</h3>
+<h3>🛠️ Tools:</h3>
 
 <ol>
 <li>Git & GitHub</li>
@@ -34,3 +34,21 @@ I’m <b>SALMAN</b> a Full Stack Web Developer specializing in the MERN stack (M
 <li>Responsive and accessible user interfaces.</li>
 <li>Code optimization and performance improvements.</li>
 </ul>
+
+<h3>🧠 Current Focus:</h3>
+
+<ul>
+<li>Improving backend architecture and scalability.</li>
+<li>Writing clean, testable, and maintainable code.</li>
+<li>Learning best practices for production-ready applications.</li>
+</ul>
+
+<h3>🤝 Connect With Me:</h3>
+
+<ul>
+<li>💼 LinkedIn: <a></a></li>
+<li>🌍 Portfolio: <a>https://salman-portfolio-delta.vercel.app/</a></li>
+<li>📧 Email: <a>salmantassawar419@gmail.com</a></li>
+</ul>
+
+<h2>Thank you for visiting my GitHub profile.</h2>
