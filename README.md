@@ -1,6 +1,6 @@
 <h2>👋Hi, I'm a Full Stack Web Developer</h2> 
 
-I’m <a herf=""><b>SALMAN</b></a> a Full Stack Web Developer specializing in the MERN stack (MongoDB, Express, React, Node.js). I enjoy building scalable, performant, and user-friendly web applications—from backend APIs to polished frontend experiences.
+I’m (<b>SALMAN</b>) a Full Stack Web Developer specializing in the MERN stack (MongoDB, Express, React, Node.js). I enjoy building scalable, performant, and user-friendly web applications—from backend APIs to polished frontend experiences.
 
 <h3>📚 Technical Skills:</h3>
 
