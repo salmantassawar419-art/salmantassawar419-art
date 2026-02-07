@@ -25,7 +25,7 @@ I’m <b>SALMAN</b> a Full Stack Web Developer specializing in the MERN stack (M
 <li>Deployment: Vercel, Netlify, Render</li>
 </ol>
 
-<h3>What I Work On:</h3>
+<h3>🔧 What I Work On:</h3>
 
 <ul>
 <li>Full-stack web applications using MERN.</li>
@@ -46,9 +46,9 @@ I’m <b>SALMAN</b> a Full Stack Web Developer specializing in the MERN stack (M
 <h3>🤝 Connect With Me:</h3>
 
 <ul>
-<li>💼 LinkedIn:(https://linkedin.com/in/yourname)</li>
-<li>🌍 Portfolio:(https://salman-portfolio-delta.vercel.app)</li>
-<li>📧 Email:(salmantassawar419@gmail.com)</li>
+<li>💼 LinkedIn: (https://www.linkedin.com/in/%20salman-tassawar-437407398)</li>
+<li>🌍 Portfolio: (https://salman-portfolio-delta.vercel.app)</li>
+<li>📧 Email: salmantassawar419@gmail.com</li>
 </ul>
 
-<h2>!Thank you for visiting my GitHub profile.</h2>
+<h2>⭐️ Thank you for visiting my GitHub profile.!</h2>
