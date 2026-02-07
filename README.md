@@ -1,6 +1,6 @@
 <h2>👋Hi, I'm a Full Stack Web Developer</h2> 
 
-I’m (<b>SALMAN</b>) a Full Stack Web Developer specializing in the MERN stack (MongoDB, Express, React, Node.js). I enjoy building scalable, performant, and user-friendly web applications—from backend APIs to polished frontend experiences.
+I’m <b>SALMAN</b> a Full Stack Web Developer specializing in the MERN stack (MongoDB, Express, React, Node.js). I enjoy building scalable, performant, and user-friendly web applications—from backend APIs to polished frontend experiences.
 
 <h3>📚 Technical Skills:</h3>
 
@@ -46,7 +46,7 @@ I’m (<b>SALMAN</b>) a Full Stack Web Developer specializing in the MERN stack 
 <h3>🤝 Connect With Me:</h3>
 
 <ul>
-<li>💼 LinkedIn: <a></a></li>
+<li>💼 [LinkedIn](https://linkedin.com/in/yourname)</li>
 <li>🌍 Portfolio: <a herf="https://salman-portfolio-delta.vercel.app">https://salman-portfolio-delta.vercel.app</a></li>
 <li>📧 Email: <a herf="salmantassawar419@gmail.com">salmantassawar419@gmail.com</a></li>
 </ul>
