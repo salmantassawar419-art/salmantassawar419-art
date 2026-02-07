@@ -1,4 +1,4 @@
-##👋Hi, I'm a Full Stack Web Developer 
+<h2>👋Hi, I'm a Full Stack Web Developer</h2> 
 
 I’m a Full Stack Web Developer specializing in the MERN stack (MongoDB, Express, React, Node.js). I enjoy building scalable, performant, and user-friendly web applications—from backend APIs to polished frontend experiences.
 
