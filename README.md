@@ -1,16 +1,52 @@
-## Hi there 👋
+👋Hi, I'm a Full Stack Web Developer 
 
-<!--
-**salmantassawar419-art/salmantassawar419-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Full Stack Web Developer specializing in the MERN stack (MongoDB, Express, React, Node.js). I enjoy building scalable, performant, and user-friendly web applications—from backend APIs to polished frontend experiences.
 
-Here are some ideas to get you started:
+Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frontend
+
+React.js
+
+JavaScript (ES6+)
+
+HTML5, CSS3
+
+Tailwind CSS / Bootstrap
+
+Backend
+
+Node.js
+
+Express.js
+
+RESTful APIs
+
+Authentication & Authorization (JWT)
+
+Database
+
+MongoDB
+
+Mongoose
+
+Tools
+
+Git & GitHub
+
+Postman
+
+Deployment: Vercel, Netlify, Render
+
+What I Work On
+
+Full-stack web applications using MERN
+
+API development and integration
+
+Secure authentication systems
+
+Responsive and accessible user interfaces
+
+Code optimization and performance improvements
+
