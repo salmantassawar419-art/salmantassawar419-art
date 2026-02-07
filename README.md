@@ -46,9 +46,9 @@ I’m <b>SALMAN</b> a Full Stack Web Developer specializing in the MERN stack (M
 <h3>🤝 Connect With Me:</h3>
 
 <ul>
-<li>💼 [LinkedIn](https://linkedin.com/in/yourname)</li>
-<li>🌍 Portfolio: <a herf="https://salman-portfolio-delta.vercel.app">https://salman-portfolio-delta.vercel.app</a></li>
-<li>📧 Email: <a herf="salmantassawar419@gmail.com">salmantassawar419@gmail.com</a></li>
+<li>💼 LinkedIn:(https://linkedin.com/in/yourname)</li>
+<li>🌍 Portfolio:(https://salman-portfolio-delta.vercel.app)</li>
+<li>📧 Email:(salmantassawar419@gmail.com)</li>
 </ul>
 
 <h2>!Thank you for visiting my GitHub profile.</h2>
