@@ -1,31 +1,36 @@
 <h2>👋Hi, I'm a Full Stack Web Developer</h2> 
 
-I’m a Full Stack Web Developer specializing in the MERN stack (MongoDB, Express, React, Node.js). I enjoy building scalable, performant, and user-friendly web applications—from backend APIs to polished frontend experiences.
+I’m <b>SALMAN</b> a Full Stack Web Developer specializing in the MERN stack (MongoDB, Express, React, Node.js). I enjoy building scalable, performant, and user-friendly web applications—from backend APIs to polished frontend experiences.
 
-#Technical Skills:
+<h3>Technical Skills:</h3>
 
-React.js
-JavaScript (ES6+)
-HTML5, CSS3
-Tailwind CSS / Bootstrap
-Node.js
-Express.js
-RESTful APIs
-Authentication & Authorization (JWT)
-MongoDB
-Mongoose
+<ul>
+<li>React.js</li>
+<li>JavaScript (ES6+)</li>
+<li>HTML5, CSS3</li>
+<li>Tailwind CSS / Bootstrap</li>
+<li>Node.js</li>
+<li>Express.js</li>
+<li>RESTful APIs</li>
+<li>Authentication & Authorization (JWT)</li>
+<li>MongoDB</li>
+<li>Mongoose</li>
+</ul>
 
-#Tools:
+<h3>Tools:</h3>
 
-Git & GitHub
-Postman
-Deployment: Vercel, Netlify, Render
+<ol>
+<li>Git & GitHub</li>
+<li>Postman</li>
+<li>Deployment: Vercel, Netlify, Render</li>
+</ol>
 
-#What I Work On:
+<h3>What I Work On:</h3>
 
-Full-stack web applications using MERN.
-API development and integration.
-Secure authentication systems.
-Responsive and accessible user interfaces.
-Code optimization and performance improvements.
-
+<ul>
+<li>Full-stack web applications using MERN.</li>
+<li>API development and integration.</li>
+<li>Secure authentication systems.</li>
+<li>Responsive and accessible user interfaces.</li>
+<li>Code optimization and performance improvements.</li>
+</ul>
